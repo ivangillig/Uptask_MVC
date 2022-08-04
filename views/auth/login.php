@@ -33,6 +33,11 @@
                 <a href="/crear">Aún no tienes una cuenta? obtener una</a>
                 <a href="/olvide">Olvidaste tu password?</a>
             </div>
+
+            <div style="margin-top:10rem">
+                <p style="text-align:center; font-weight:bold">User de prueba: admin@correo.com</p>
+                <p style="text-align:center; font-weight:bold">Pass de prueba: 123123</p>
+            </div>
     </div> <!--.Contenedor-SM -->
 
 </div>
